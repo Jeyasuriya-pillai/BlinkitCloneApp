@@ -1,6 +1,6 @@
 # 🛒 Blinkit Clone App
 
-This application is a Blinkit-inspired clone built as a personal project to practice and enhance Android development skills. 
+This application is a Blinkit-inspired clone built as a personal project to practice and enhance Android development skills.
 It is not an official product and is not associated with Blinkit in any way.
 
 ---
@@ -34,9 +34,16 @@ This project is built to practice Android development and understand how a real-
 
 ---
 
+## 📥 Download
+
+👉 Download the latest APK from here:
+🔗 https://github.com/Jeyasuriya-pillai/BlinkitCloneApp/releases/tag/v1.0
+
+---
+
 ## 📥 Installation
 
-1. Download the APK from the **Assets section**
+1. Download the APK from the link above
 2. Enable "Install from Unknown Sources"
 3. Install and run the app on your device
 
